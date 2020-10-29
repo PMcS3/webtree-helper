@@ -1,0 +1,636 @@
+﻿CRN1,SUBJECT,COURSE_TITLE,PROF,MEET_DAYS,CLASS_TIME,ROOM,MAX_ENROLL,CURR_ENROLL,OPEN_SEATS,REQUIREMENT,NOTES
+60001,AFR 224-0,African American Memory,Green H, M  W   ,0220 - 0335pm,WATSON 147,30,0,30,HTRQ,H
+60002,AFR 225-0,"Race,Gender,Sexuality inHipHop",Douge-Prosper M, M  W  F ,0830 - 0920am,CHAM 1006,25,0,25,CULT VPRQ,H
+60003,AFR 270-0,Racial Capitalism&Reproduction,Harper-Shipman T,  T  R  ,1135 - 1250pm,SLOAN 201,25,0,25,JEC SSRQ,H
+60004,AFR 290-0,Oral History,Kelly H, M     ,0110 - 0400pm, ,5,0,5,HTRQ,"XLST,O"
+60005,AFR 297-0,Caribbean Literature,Flanagan B, M  W   ,0220 - 0335pm,SLOAN 201,15,0,15,CULT LTRQ,"XLST,H"
+60006,AFR 300-0,Afrocubana Feminisms,Benson D,   W   ,0110 - 0400pm, ,8,0,8,JEC,"XLST,O"
+60007,AFR 321-0,"Black Lives, Black Protest",Douge-Prosper M, M  W  F ,0940 - 1030am,CHAM 1003,20,0,20,JEC SSRQ,H
+60008,AFR 332-0,Black Leaders Africa&Caribbean,Douge-Prosper M,  T  R  ,0950 - 1105am,CHAM 1006,15,0,15,CULT HTRQ,H
+60009,AFR 374-0,REG FOR SOC 374 CRN 60506,Ewoodzie J,  T    ,0110 - 0400pm,CHAM 2146,0,0,0,SSRQ,"XLST,H"
+60010,ANT 101-0,Intro Cultural Anthropology,Polson M,  T  R  ,0815 - 0930am, ,30,0,30,SSRQ,O
+60011,ANT 213-0,Israel-Palestine,Neuman T,  T  R  ,1135 - 1250pm, ,20,0,20,JEC SSRQ,O
+60012,ANT 220-0,"Religion, Society & Culture",Samson M, M  W  F ,0940 - 1030am,CHAM 3106,20,0,20,CULT SSRQ,H
+60013,ANT 234-0,Urban Africa/Popular Culture,Bowles L,  T    ,0110 - 0400pm,WATSON 140,20,0,20,CULT HTRQ,H
+60014,ANT 237-0,Worlds Commodities Make,Polson M,  T  R  ,1135 - 1250pm, ,20,0,20,NONE,O
+60015,ANT 252-0,Ancient Maya Civilization,Lamoureux-St-Hilaire M, M  W   ,0805 - 0920am, ,20,0,20,CULT HTRQ,O
+60016,ANT 271-0,Human Ecology,Cho H, M  W  F ,0830 - 0920am,WATSON 109,20,0,20,SSRQ,H
+60017,ANT 277-0,Ancient Food and Foodways,Lamoureux-St-Hilaire M, M  W   ,0220 - 0335pm, ,20,0,20,CULT HTRQ,O
+60018,ANT 321-0,"Borderlands, Identity & Rights",Samson M,  T  R  ,0245 - 0400pm,CHAM 3106,15,0,15,CULT SSRQ,H
+60019,ANT 335-0,Debunking Race,Cho H, M  W   ,0220 - 0335pm,CHAM 1003,15,0,15,SSRQ,H
+60020,ANT 370-0,Theory in Anthropology,Polson M,     F ,0110 - 0400pm, ,15,0,15,NONE,O
+60021,ANT 371-0,Ethnographic Writing,Bowles L, M     ,0110 - 0400pm,CHAM 1062,15,0,15,NONE,H
+60022,ANT 380-0,Ethical Archaeological Res,Lamoureux-St-Hilaire M,  T    ,0110 - 0400pm,CHAM 1006,15,0,15,NONE,H
+60023,ANT 383-0,Seminar: Water & Citizenship,Neuman T,   W   ,0110 - 0400pm, ,15,0,15,JEC SSRQ,O
+60024,ARB 102-0,Elementary Arabic II,Joubin R, M  W  F ,0940 - 1030am,CHAM 3234,14,0,14,NONE,"NA,F"
+60025,ARB 202-0,Intermediate Arabic II,Khedher R, M  W  F ,1050 - 1140am, ,20,0,20,FRLG,"NA,PRQ,O"
+60026,ARB 336-0,Arab Life & Politics via Film,Khedher R, M  W  F ,0940 - 1030am, ,20,0,20,NONE,"NA,PRQ,O"
+60027,ART 100-0,Survey of Western Art,Smith S, M  W  F ,0940 - 1030am, ,30,0,30,VPRQ,O
+60028,ART 101-0,Basic Drawing,Starr T,  T  R  ,0950 - 1105am,VAC 203,12,0,12,VPRQ,"NA,H"
+60029,ART 102-0,Survey of Asian Art,Kyo R, M  W  F ,0110 - 0200pm, ,30,0,30,CULT VPRQ,O
+60030,ART 109-0,Basic Sculpture,Savage C,    R  ,0110 - 0400pm,VAC 106,10,0,10,VPRQ,"NA,H"
+60031,ART 111-0,Introduction to Digital Art,Eggleston C,  T  R  ,0950 - 1105am,VAC 212,12,0,12,VPRQ,"NA,H"
+60032,ART 201-0,Advanced Drawing,Savage C,  T  R  ,0950 - 1105am,VAC 223,12,0,12,VPRQ,"NA,PRQ,H"
+60033,ART 203-0,Advanced Painting,St Clair K,  T  R  ,0110 - 0225pm,VAC 213,13,0,13,VPRQ,F
+60034,ART 211-0,Advanced Digital Art,Eggleston C,  T  R  ,1135 - 1250pm,VAC 212,12,0,12,VPRQ,"NA,H"
+60035,ART 214-0,"Royalty,Rogue,Rev in 18thC Art",Smith S, M  W  F ,1050 - 1140am, ,30,0,30,VPRQ,O
+60036,ART 224-0,Modern & Contemporary Chinese,Kyo R, M  W  F ,0220 - 0310pm, ,20,0,20,CULT VPRQ,O
+60037,ART 344-0,Artist's Books,Starr T,  T  R  ,1135 - 1250pm,VAC 105,12,0,12,VPRQ,H
+60039,ART 397-0,Junior Advanced Study,St Clair K,   W   ,0110 - 0400pm,VAC 214,10,0,10,NONE,F
+60040,ART 402-0,Capstone Seminar/Art History,Smith S,   W   ,0110 - 0400pm, ,6,0,6,NONE,"NA,O"
+60041,BIO 105-A,Biology For Life,Campbell M,  T    ,0815 - 1055am, ,8,0,8,NSRQ,"4+,BR,O,OL"
+60041,BIO 105-A,Biology For Life,Campbell M,  T  R  ,0110 - 0225pm, ,8,0,8,NSRQ,"4+,BR,O,OL"
+60042,BIO 105-B,Biology For Life,Campbell M,  T    ,0815 - 1055am, ,8,0,8,NSRQ,"BR,O,OL"
+60042,BIO 105-B,Biology For Life,Campbell M,  T  R  ,0110 - 0225pm, ,8,0,8,NSRQ,"BR,O,OL"
+60043,BIO 105-C,Biology For Life,Campbell M,   W   ,0830 - 1120am, ,8,0,8,NSRQ,"4+,BR,O,OL"
+60043,BIO 105-C,Biology For Life,Campbell M,  T  R  ,0110 - 0225pm, ,8,0,8,NSRQ,"4+,BR,O,OL"
+60044,BIO 105-D,Biology For Life,Campbell M,   W   ,0830 - 1120am, ,8,0,8,NSRQ,"BR,O,OL"
+60044,BIO 105-D,Biology For Life,Campbell M,  T  R  ,0110 - 0225pm, ,8,0,8,NSRQ,"BR,O,OL"
+60045,BIO 111-A,"Molecules, Genes, & Cells",Bernd K,  T    ,0110 - 0400pm,WALL 104,6,0,6,NSRQ,"B-I,2+,H,HL"
+60045,BIO 111-A,"Molecules, Genes, & Cells",Bernd K, M  W   ,0730 - 0845pm,WALL 243,6,0,6,NSRQ,"B-I,2+,H,HL"
+60046,BIO 111-B,"Molecules, Genes, & Cells",Bernd K,  T    ,0110 - 0400pm,WALL 104,10,0,10,NSRQ,"B-I,H,HL"
+60046,BIO 111-B,"Molecules, Genes, & Cells",Bernd K, M  W   ,0730 - 0845pm,WALL 243,10,0,10,NSRQ,"B-I,H,HL"
+60047,BIO 111-C,"Molecules, Genes, & Cells",Bernd K,  T    ,0700 - 0950pm,WALL 104,6,0,6,NSRQ,"B-I,2+,H,HL"
+60047,BIO 111-C,"Molecules, Genes, & Cells",Bernd K, M  W   ,0730 - 0845pm,WALL 243,6,0,6,NSRQ,"B-I,2+,H,HL"
+60048,BIO 111-D,"Molecules, Genes, & Cells",Bernd K,  T    ,0700 - 0950pm,WALL 104,10,0,10,NSRQ,"B-I,H,HL"
+60048,BIO 111-D,"Molecules, Genes, & Cells",Bernd K, M  W   ,0730 - 0845pm,WALL 243,10,0,10,NSRQ,"B-I,H,HL"
+60049,BIO 112-A,"Organisms,Evolution,Ecosystems",Barsoum M, M     ,0110 - 0400pm, ,16,0,16,NSRQ,"B-II,O,OL"
+60049,BIO 112-A,"Organisms,Evolution,Ecosystems",Barsoum M,  T  R  ,0110 - 0225pm, ,16,0,16,NSRQ,"B-II,O,OL"
+60050,BIO 112-B,"Organisms,Evolution,Ecosystems",Barsoum M,  T    ,0815 - 1055am, ,16,0,16,NSRQ,"B-II,O,OL"
+60050,BIO 112-B,"Organisms,Evolution,Ecosystems",Barsoum M,  T  R  ,0110 - 0225pm, ,16,0,16,NSRQ,"B-II,O,OL"
+60051,BIO 113-A,Integrated Concepts in Bio I,Melonakos J,  T    ,0815 - 1055am, ,16,0,16,NSRQ,"B-I,H,OL"
+60051,BIO 113-A,Integrated Concepts in Bio I,Melonakos J,  T  R  ,1135 - 1250pm,WALL 106,16,0,16,NSRQ,"B-I,H,OL"
+60052,BIO 113-B,Integrated Concepts in Bio I,Melonakos J,    R  ,0815 - 1055am, ,16,0,16,NSRQ,"B-I,H,OL"
+60052,BIO 113-B,Integrated Concepts in Bio I,Melonakos J,  T  R  ,1135 - 1250pm,WALL 106,16,0,16,NSRQ,"B-I,H,OL"
+60053,BIO 113-C,Integrated Concepts in Bio I,Whitson J, M     ,0110 - 0400pm, ,16,0,16,NSRQ,"B-I,H,OL"
+60053,BIO 113-C,Integrated Concepts in Bio I,Whitson J, M  W  F ,1050 - 1140am,WALL 210,16,0,16,NSRQ,"B-I,H,OL"
+60054,BIO 113-D,Integrated Concepts in Bio I,Whitson J,   W   ,0110 - 0400pm, ,16,0,16,NSRQ,"B-I,H,OL"
+60054,BIO 113-D,Integrated Concepts in Bio I,Whitson J, M  W  F ,1050 - 1140am,WALL 210,16,0,16,NSRQ,"B-I,H,OL"
+60055,BIO 114-A,Integr Concepts in Biology II,Paradise C,   W   ,0110 - 0400pm,WALL 245,16,0,16,NSRQ,"B-II,O,HL"
+60055,BIO 114-A,Integr Concepts in Biology II,Paradise C, M  W  F ,0940 - 1030am, ,16,0,16,NSRQ,"B-II,O,HL"
+60056,BIO 114-B,Integr Concepts in Biology II,Paradise C,    R  ,0110 - 0400pm,WALL 245,16,0,16,NSRQ,"B-II,O,HL"
+60056,BIO 114-B,Integr Concepts in Biology II,Paradise C, M  W  F ,0940 - 1030am, ,16,0,16,NSRQ,"B-II,O,HL"
+60057,BIO 142-0,Biochem of Traditional Med,Pollet R, M  W  F ,1200 - 1250pm, ,32,0,32,CULT,O
+60058,BIO 151-0,"Use, Misuse of Data in Biology",Smith K, M  W   ,0220 - 0335pm,WALL 307,10,0,10,JEC MQRQ,"PRM,R,H"
+60059,BIO 161-0,Being Human in STEM,Lom B,  T  R  ,0950 - 1105am, ,12,0,12,JEC,O
+60062,BIO 201-A,Genetics,El Bejjani R,    R  ,0815 - 1055am,WALL 328,16,0,16,NONE,"PRQ,O,HL"
+60062,BIO 201-A,Genetics,El Bejjani R, M  W  F ,0110 - 0200pm, ,16,0,16,NONE,"PRQ,O,HL"
+60063,BIO 201-B,Genetics,El Bejjani R,    R  ,0110 - 0400pm,WALL 328,16,0,16,NONE,"PRQ,O,HL"
+60063,BIO 201-B,Genetics,El Bejjani R, M  W  F ,0110 - 0200pm, ,16,0,16,NONE,"PRQ,O,HL"
+60064,BIO 209-0,Bioinformatics Programming,Thurtle-Schmidt D,  T  R  ,0815 - 0930am, ,24,0,24,MQRQ,"XLST,R,O"
+60065,BIO 239-0,Nutrition,Whitson J,  T  R  ,1135 - 1250pm,ALVA 307,32,0,32,NONE,"PRQ,H"
+60066,BIO 240-A,Biostats for Life Scientists,Smith K,  T  R  ,0815 - 0930am, ,20,0,20,MQRQ,"PRQ,O"
+60067,BIO 240-B,Biostats for Life Scientists,Starkloff N,  T  R  ,0950 - 1105am, ,20,0,20,MQRQ,"PRQ,O"
+60068,BIO 240-C,Biostats for Life Scientists,Starkloff N,  T  R  ,0110 - 0225pm, ,20,0,20,MQRQ,"PRQ,O"
+60069,BIO 303-A,Biochemistry,Pollet R, M     ,0110 - 0400pm,WALL 316,16,0,16,NONE,"PRQ,O,HL"
+60069,BIO 303-A,Biochemistry,Pollet R, M  W  F ,0940 - 1030am, ,16,0,16,NONE,"PRQ,O,HL"
+60070,BIO 303-B,Biochemistry,Pollet R,  T    ,0110 - 0400pm,WALL 316,16,0,16,NONE,"PRQ,O,HL"
+60070,BIO 303-B,Biochemistry,Pollet R, M  W  F ,0940 - 1030am, ,16,0,16,NONE,"PRQ,O,HL"
+60071,BIO 307-A,Immunology,Sarafova S,   W   ,0110 - 0400pm,WALL 218,16,0,16,NONE,"PRQ,O,HL"
+60071,BIO 307-A,Immunology,Sarafova S,  T  R  ,1135 - 1250pm, ,16,0,16,NONE,"PRQ,O,HL"
+60072,BIO 307-B,Immunology,Sarafova S,    R  ,0110 - 0400pm,WALL 218,16,0,16,NONE,"PRQ,O,HL"
+60072,BIO 307-B,Immunology,Sarafova S,  T  R  ,1135 - 1250pm, ,16,0,16,NONE,"PRQ,O,HL"
+60073,BIO 309-0,Genomics,Thurtle-Schmidt D, M  W  F ,1200 - 1250pm, ,32,0,32,NONE,"PRQ,O"
+60074,BIO 320-A,Plant Adaptations,Wadgymar S,  T    ,0110 - 0400pm,WALL 149,16,0,16,NONE,"PRQ,O,HL"
+60074,BIO 320-A,Plant Adaptations,Wadgymar S, M  W   ,0220 - 0335pm, ,16,0,16,NONE,"PRQ,O,HL"
+60075,BIO 320-B,Plant Adaptations,Wadgymar S,    R  ,0110 - 0400pm,WALL 149,16,0,16,NONE,"PRQ,O,HL"
+60075,BIO 320-B,Plant Adaptations,Wadgymar S, M  W   ,0220 - 0335pm, ,16,0,16,NONE,"PRQ,O,HL"
+60076,BIO 332-0,REG FOR PSY 324 CRN 60441,Ramirez J,  T    ,0110 - 0400pm,WALL 106,0,0,0,NONE,"XLST,PRQ,H"
+60077,BIO 336-0,Animal Development,Lom B,  T  R  ,0110 - 0225pm, ,32,0,32,NONE,"PRQ,O"
+60078,BIO 343-0,Laboratory Methods in Genomics,Thurtle-Schmidt D,  T  R  ,0950 - 1105am, ,18,0,18,NONE,"PRQ,O"
+60079,BIO 361-0,Biodiversity of Parasites,Starkloff N, M  W   ,0220 - 0335pm,WALL 320,12,0,12,NONE,"PRQ,H"
+60086,BIO 393-0,Advances in Genome Editing,El Bejjani R, M  W  F ,1200 - 1250pm,WALL 106,12,0,12,NONE,"PRQ,R,F"
+60087,BIO 395-0,REG FOR CHE 430 CRN 60109,Key H,  T  R  ,0950 - 1105am,WALL 307,0,0,0,NONE,"XLST,H"
+60088,CHE 106-A,Chemistry of Fibers & Dyes,Gorensek-Benitez A,     F ,0110 - 0400pm, ,16,0,16,NSRQ,"O,OL"
+60088,CHE 106-A,Chemistry of Fibers & Dyes,Gorensek-Benitez A,  T  R  ,0815 - 0930am, ,16,0,16,NSRQ,"O,OL"
+60089,CHE 106-B,Chemistry of Fibers & Dyes,Gorensek-Benitez A,    R  ,0110 - 0400pm, ,16,0,16,NSRQ,"O,OL"
+60089,CHE 106-B,Chemistry of Fibers & Dyes,Gorensek-Benitez A,  T  R  ,0815 - 0930am, ,16,0,16,NSRQ,"O,OL"
+60090,CHE 115-A,Principles of Chemistry,Williams T,   W   ,0110 - 0400pm,WALL 110,16,0,16,NSRQ,"H,FL"
+60090,CHE 115-A,Principles of Chemistry,Williams T, M  W  F ,0830 - 0920am,WALL 320,16,0,16,NSRQ,"H,FL"
+60091,CHE 115-B,Principles of Chemistry,Williams T,    R  ,0110 - 0400pm,WALL 110,16,0,16,NSRQ,"H,FL"
+60091,CHE 115-B,Principles of Chemistry,Williams T, M  W  F ,0830 - 0920am,WALL 320,16,0,16,NSRQ,"H,FL"
+60092,CHE 115-C,Principles of Chemistry,Gorensek-Benitez A, M     ,0110 - 0400pm,WALL 110,16,0,16,NSRQ,"LL,O,FL"
+60092,CHE 115-C,Principles of Chemistry,Gorensek-Benitez A, M  W  F ,1050 - 1140am, ,16,0,16,NSRQ,"LL,O,FL"
+60093,CHE 115-D,Principles of Chemistry,Gorensek-Benitez A,  T    ,0110 - 0400pm,WALL 110,16,0,16,NSRQ,"LL,O,FL"
+60093,CHE 115-D,Principles of Chemistry,Gorensek-Benitez A, M  W  F ,1050 - 1140am, ,16,0,16,NSRQ,"LL,O,FL"
+60094,CHE 220-A,Intro to Analytical Chemistry,Blauch D,   W   ,0110 - 0400pm,WALL 235,16,0,16,NSRQ,"PRQ,H,HL"
+60094,CHE 220-A,Intro to Analytical Chemistry,Blauch D, M  W  F ,1050 - 1140am,WALL 106,16,0,16,NSRQ,"PRQ,H,HL"
+60095,CHE 220-B,Intro to Analytical Chemistry,Blauch D,    R  ,0110 - 0400pm,WALL 235,16,0,16,NSRQ,"PRQ,H,HL"
+60095,CHE 220-B,Intro to Analytical Chemistry,Blauch D, M  W  F ,1050 - 1140am,WALL 106,16,0,16,NSRQ,"PRQ,H,HL"
+60096,CHE 230-A,Intro to Biological Chemistry,Myers J, M     ,0110 - 0400pm,WALL 335,16,0,16,NSRQ,"PRQ,H,HL"
+60096,CHE 230-A,Intro to Biological Chemistry,Myers J,  T  R  ,0950 - 1105am,WALL 106,16,0,16,NSRQ,"PRQ,H,HL"
+60097,CHE 230-B,Intro to Biological Chemistry,Myers J,  T    ,0110 - 0400pm,WALL 335,16,0,16,NSRQ,"PRQ,H,HL"
+60097,CHE 230-B,Intro to Biological Chemistry,Myers J,  T  R  ,0950 - 1105am,WALL 106,16,0,16,NSRQ,"PRQ,H,HL"
+60098,CHE 240-A,Intro to Inorganic Chemistry,Striplin D, M     ,0110 - 0400pm,WALL 235,16,0,16,NSRQ,"PRQ,F,FL"
+60098,CHE 240-A,Intro to Inorganic Chemistry,Striplin D,  T  R  ,0815 - 0930am,WALL 243,16,0,16,NSRQ,"PRQ,F,FL"
+60099,CHE 240-B,Intro to Inorganic Chemistry,Striplin D,  T    ,0110 - 0400pm,WALL 235,16,0,16,NSRQ,"PRQ,F,FL"
+60099,CHE 240-B,Intro to Inorganic Chemistry,Striplin D,  T  R  ,0815 - 0930am,WALL 243,16,0,16,NSRQ,"PRQ,F,FL"
+60100,CHE 250-A,Intro to Organic Chemistry,Carroll F,    R  ,0815 - 1055am,WALL 310,14,0,14,NSRQ,"PRQ,H,HL"
+60100,CHE 250-A,Intro to Organic Chemistry,Carroll F, M  W  F ,1050 - 1140am,WALL 320,14,0,14,NSRQ,"PRQ,H,HL"
+60101,CHE 250-B,Intro to Organic Chemistry,Carroll F,    R  ,0110 - 0400pm,WALL 310,14,0,14,NSRQ,"PRQ,H,HL"
+60101,CHE 250-B,Intro to Organic Chemistry,Carroll F, M  W  F ,1050 - 1140am,WALL 320,14,0,14,NSRQ,"PRQ,H,HL"
+60102,CHE 250-C,Intro to Organic Chemistry,Carroll F,     F ,0110 - 0400pm,WALL 310,14,0,14,NSRQ,"PRQ,H,HL"
+60102,CHE 250-C,Intro to Organic Chemistry,Carroll F, M  W  F ,1050 - 1140am,WALL 320,14,0,14,NSRQ,"PRQ,H,HL"
+60103,CHE 320-0,Experimental Analytical Chem,Hauser C,   W   ,0110 - 0400pm,WALL 351,12,0,12,NONE,"PRQ,F,FL"
+60103,CHE 320-0,Experimental Analytical Chem,Hauser C,  T    ,0110 - 0400pm,WALL 351,12,0,12,NONE,"PRQ,F,FL"
+60104,CHE 350-A,Experimental Organic Chem,Stevens E,      ,TBA , ,12,0,12,NONE,"PRQ,O,OL"
+60104,CHE 350-A,Experimental Organic Chem,Stevens E, M  W  F ,0830 - 0920am, ,12,0,12,NONE,"PRQ,O,OL"
+60105,CHE 350-B,Experimental Organic Chem,Stevens E,      ,TBA , ,12,0,12,NONE,"PRQ,O,OL"
+60105,CHE 350-B,Experimental Organic Chem,Stevens E, M  W  F ,0830 - 0920am, ,12,0,12,NONE,"PRQ,O,OL"
+60106,CHE 350-C,Experimental Organic Chem,Key H,  T    ,0110 - 0400pm,WALL 310,12,0,12,NONE,"PRQ,H,HL"
+60106,CHE 350-C,Experimental Organic Chem,Key H, M  W  F ,1050 - 1140am,WALL 243,12,0,12,NONE,"PRQ,H,HL"
+60107,CHE 350-D,Experimental Organic Chem,Key H,   W   ,0110 - 0400pm,WALL 310,12,0,12,NONE,"PRQ,H,HL"
+60107,CHE 350-D,Experimental Organic Chem,Key H, M  W  F ,1050 - 1140am,WALL 243,12,0,12,NONE,"PRQ,H,HL"
+60108,CHE 374-0,Medicinal Chemistry,Stevens E, M  W  F ,1050 - 1140am, ,12,0,12,NONE,"PRQ,O"
+60109,CHE 430-0,Enzyme Engineering,Key H,  T  R  ,0950 - 1105am,WALL 307,12,0,12,NONE,"XLST,H"
+60110,CHI 102-A,Elementary Chinese II,Tsai M, M  W  F ,1050 - 1140am,CHAM 1046,18,0,18,NONE,H
+60111,CHI 102-B,Elementary Chinese II,Tsai M, M  W  F ,1200 - 1250pm,CHAM 1046,18,0,18,NONE,H
+60112,CHI 122-0,Intro Chinese Visual Culture,Kyo R, M  W   ,0730 - 0845pm, ,30,0,30,CULT VPRQ,O
+60113,CHI 202-0,Intermediate Chinese II,Shao P, M  W  F ,0940 - 1030am,CHAM 1045,12,0,12,FRLG,"PRQ,H"
+60114,CHI 225-0,Crime & Detective Lit (transl),Shao P, M  W  F ,0110 - 0200pm, ,30,0,30,CULT,O
+60115,CHI 302-0,Advanced Chinese II,Shen V,      ,TBA , ,12,0,12,FRLG,"PRQ,O"
+60116,CHI 350-0,Advanced Reading & Writing,Tsai M, M  W  F ,0220 - 0310pm,DANA 153,12,0,12,FRLG,"PRQ,H"
+60117,CHI 405-0,Chinese Cinema&Mod Lit(transl),Shen V,   W   ,0110 - 0400pm, ,15,0,15,CULT,"PRQ,O"
+60575,CHI 451-0,Advanced Chinese,Shen V,      ,TBA , ,12,0,12,FRLG,"PRQ,O"
+60119,CIS 140-0,Global Jews: An Introduction,Neuman T,  T  R  ,0245 - 0400pm, ,20,0,20,CULT SSRQ,O
+60120,CIS 495-0,Thesis I/Capstone,Mangan J,      ,TBA , ,5,0,5,NONE,PRM
+60121,CIS 496-0,Thesis II,Mangan J,      ,TBA , ,25,0,25,NONE,4
+60122,CLA 142-0,Roman Art & Archaeology,Toumazou M, M  W  F ,0110 - 0200pm, ,30,0,30,VPRQ,O
+60123,CLA 224-0,Medical Etymology,Neumann J, M  W  F ,0830 - 0920am,CHAM HANCE,20,0,20,NONE,H
+60124,CLA 250-0,Classical Mythology,Neumann J,  T  R  ,0950 - 1105am,CHAM 2106,20,0,20,NONE,H
+60125,CLA 277-0,Rome and Carthage,Truetzel A,  T  R  ,1135 - 1250pm, ,30,0,30,HTRQ,O
+60126,COM 101-A,Princ of Oral Communication,Fallah A, M  W  F ,1050 - 1140am, ,16,0,16,LTRQ,O
+60127,COM 101-B,Princ of Oral Communication,Spikes A,  T  R  ,0815 - 0930am, ,16,0,16,LTRQ,O
+60128,COM 101-C,Princ of Oral Communication,Spikes A,  T  R  ,0950 - 1105am, ,16,0,16,LTRQ,O
+60129,COM 210-0,Dialogues on Race and Racism,Martinez A, M  W   ,0220 - 0335pm, ,20,0,20,JEC SSRQ,"PRM,O"
+60130,COM 273-0,Reporting Politics & Elections,Bailey I,  T  R  ,0245 - 0400pm,CHAM 1111,30,0,30,JEC LTRQ,H
+60131,COM 280-0,Intercultural Communication,Spikes A,  T  R  ,1135 - 1250pm, ,30,0,30,JEC,O
+60132,COM 325-0,Exploring Fake News,Bailey I,  T  R  ,0110 - 0225pm,CHAM 1111,30,0,30,JEC LTRQ,H
+60133,COM 360-0,Rhetorics of Space/Place,Fallah A, M  W  F ,0110 - 0200pm, ,30,0,30,LTRQ,O
+60134,COM 495-0,Comm. Theory & Research,Martinez A,     F ,0110 - 0400pm, ,20,0,20,NONE,"4,PRM,O"
+60135,CSC 110-0,Data Science & Society,Heyer L,  T  R  ,1135 - 1250pm, ,24,0,24,JEC MQRQ,O
+60136,CSC 120-0,Programming in the Humanities,Kabala J,  T  R  ,0815 - 0930am, ,12,0,12,MQRQ,"XLST,O"
+60137,CSC 121-A,Programming & Problem Solving,Peck T,      ,TBA , ,24,0,24,MQRQ,O
+60138,CSC 121-B,Programming & Problem Solving,Ramanujan R,      ,TBA , ,24,0,24,MQRQ,O
+60139,CSC 121-C,Programming & Problem Solving,Pulaj J,      ,TBA , ,24,0,24,MQRQ,O
+60140,CSC 200-0,REG FOR PHY 200 CRN 60380,Kuchera M,      ,TBA , ,0,0,0,MQRQ,"XLST,O"
+60141,CSC 209-0,REG FOR BIO 209 CRN 60064,Thurtle-Schmidt D,  T  R  ,0815 - 0930am, ,0,0,0,MQRQ,"XLST,R,O"
+60142,CSC 210-0,REG FOR MAT 210 CRN 60336,Chartier T,      ,TBA , ,0,0,0,MQRQ,"XLST,PRQ,O"
+60143,CSC 220-0,Discrete Structures,Wiedenbeck B,  T  R  ,0815 - 0930am, ,20,0,20,MQRQ,"XLST,PRQ,O"
+60144,CSC 221-A,Data Structures,Miazi S,  T  R  ,0950 - 1105am, ,24,0,24,MQRQ,"PRQ,O"
+60145,CSC 221-B,Data Structures,Miazi S,  T  R  ,1135 - 1250pm, ,24,0,24,MQRQ,"PRQ,O"
+60146,CSC 250-A,Computer Organization,Wiedenbeck B,  T  R  ,0110 - 0225pm, ,24,0,24,NONE,"PRQ,O"
+60147,CSC 250-B,Computer Organization,Wiedenbeck B,  T  R  ,0245 - 0400pm, ,24,0,24,NONE,"PRQ,O"
+60148,CSC 315-0,REG FOR MAT 315 CRN 60340,Chartier T,      ,TBA , ,0,0,0,NONE,"XLST,PRQ,O"
+60149,CSC 321-0,Analysis of Algorithms,Pulaj J,  T  R  ,0110 - 0225pm, ,24,0,24,NONE,"PRQ,O"
+60150,CSC 362-0,Data Visualization,Peck T, M  W   ,0730 - 0845pm, ,24,0,24,NONE,"PRQ,O"
+60151,CSC 371-0,Machine Learning,Ramanujan R,  T  R  ,0245 - 0400pm, ,24,0,24,NONE,"PRQ,O"
+60152,CSC 381-0,Recommender Systems Research,Seminario C,  T  R  ,1135 - 1250pm,WATSON 147,18,0,18,NONE,"PRQ,H"
+60153,CSC 382-0,Systems Seminar,Miazi S, M  W  F ,1200 - 1250pm, ,24,0,24,NONE,"PRQ,O"
+60154,DAN 142-0,Movement Lab,Bory A, M  W   ,0220 - 0420pm,BAKER STUDIO_B,15,0,15,VPRQ,H
+60154,DAN 142-0,Movement Lab,Bory A, M  W   ,0220 - 0420pm,BAKER STUDIO_A,15,0,15,VPRQ,H
+60155,DAN 252-0,"History, Memory,Perf, Place",Chapman D,  T  R  ,0245 - 0400pm, ,15,0,15,JEC,O
+60156,DAN 284-0,Dancing Diasporas,Chapman D,  T  R  ,1135 - 1250pm, ,30,0,30,CULT VPRQ,O
+60157,DAN 288-0,Choreographing Politics,Chapman D,  T  R  ,0950 - 1105am, ,30,0,30,JEC,O
+60158,DIG 120-0,Programming in the Humanities,Kabala J,  T  R  ,0815 - 0930am, ,12,0,12,MQRQ,"XLST,O"
+60159,DIG 211-0,Surveillance Culture,Mundy O, M  W   ,0805 - 0920am, ,25,0,25,JEC,O
+60160,DIG 250-0,Game Development,Mundy O, M  W   ,0220 - 0335pm, ,12,0,12,NONE,O
+60161,DIG 345-0,Radical Software,Mundy O,  T    ,0110 - 0400pm, ,12,0,12,VPRQ,"PRQ,O"
+60162,DIG 404-0,Humanities Startup,Sample M,    R  ,0110 - 0400pm,VAC 212,12,0,12,NONE,H
+60163,ECO 101-A,Introductory Economics,Kumar V,  T  R  ,0815 - 0930am, ,20,0,20,SSRQ,O
+60164,ECO 101-B,Introductory Economics,Kumar V,  T  R  ,1135 - 1250pm, ,20,0,20,SSRQ,O
+60165,ECO 101-C,Introductory Economics,Ross C, M  W  F ,0330 - 0420pm,CHAM 2106,20,0,20,SSRQ,H
+60166,ECO 101-D,Introductory Economics,Smith F, M  W  F ,1200 - 1250pm,TOM CONF,20,0,20,SSRQ,H
+60167,ECO 101-E,Introductory Economics,Smith F, M  W  F ,0110 - 0200pm,TOM CONF,20,0,20,SSRQ,H
+60168,ECO 105-A,Stats & Basic Econometrics,Martin D, M  W  F ,0830 - 0920am, ,30,0,30,MQRQ,O
+60169,ECO 105-B,Stats & Basic Econometrics,Martin D, M  W  F ,1050 - 1140am, ,30,0,30,MQRQ,O
+60170,ECO 105-C,Stats & Basic Econometrics,Foley M,  T  R  ,0815 - 0930am, ,30,0,30,MQRQ,O
+60171,ECO 202-A,Intermed Microeconomic Theory,O'Keefe S, M  W  F ,0940 - 1030am,ALVA 307,30,0,30,SSRQ,"PRQ,F"
+60172,ECO 202-B,Intermed Microeconomic Theory,O'Keefe S, M  W  F ,1050 - 1140am,ALVA 307,30,0,30,SSRQ,"PRQ,F"
+60173,ECO 203-A,Intermed Macroeconomic Theory,Gouri Suresh S,  T  R  ,0950 - 1105am, ,30,0,30,SSRQ,"PRQ,O"
+60174,ECO 203-B,Intermed Macroeconomic Theory,Gouri Suresh S,  T  R  ,0110 - 0225pm, ,30,0,30,SSRQ,"PRQ,O"
+60175,ECO 205-A,Econometrics,Stroup C,  T    ,0305 - 0420pm,LIB B110,13,0,13,MQRQ,"PRQ,H"
+60175,ECO 205-A,Econometrics,Stroup C, M  W  F ,1200 - 1250pm,CHAM 2164,13,0,13,MQRQ,"PRQ,H"
+60176,ECO 205-B,Econometrics,Stroup C,    R  ,0305 - 0420pm,LIB B110,13,0,13,MQRQ,"PRQ,H"
+60176,ECO 205-B,Econometrics,Stroup C, M  W  F ,1200 - 1250pm,CHAM 2164,13,0,13,MQRQ,"PRQ,H"
+60177,ECO 205-C,Econometrics,Stroup C,  T    ,0805 - 0930am,LIB B110,13,0,13,MQRQ,"PRQ,H"
+60177,ECO 205-C,Econometrics,Stroup C, M  W  F ,0110 - 0200pm,CHAM 2187,13,0,13,MQRQ,"PRQ,H"
+60178,ECO 205-D,Econometrics,Stroup C,    R  ,0805 - 0930am,LIB B110,13,0,13,MQRQ,"PRQ,H"
+60178,ECO 205-D,Econometrics,Stroup C, M  W  F ,0110 - 0200pm,CHAM 2187,13,0,13,MQRQ,"PRQ,H"
+60179,ECO 211-0,Introduction to Accounting,Baker B,      ,TBA , ,30,0,30,NONE,"34+,O"
+60180,ECO 212-0,Intermediate Accounting,Baker B,      ,TBA , ,30,0,30,NONE,"PRQ,O"
+60181,ECO 214-0,Introduction to Finance,Kollme B,  T  R  ,0815 - 0930am,CHAM 2164,30,0,30,NONE,"PRQ,H"
+60182,ECO 219-0,Game Theory/Strategic Behavior,Foley M,  T  R  ,0950 - 1105am, ,30,0,30,MQRQ,"PRQ,O"
+60183,ECO 221-0,Economic History of the US,Ross C, M  W  F ,1050 - 1140am,CHAM GALL,30,0,30,HTRQ JEC,"PRQ,F"
+60184,ECO 227-0,Economics of Gender & Family,Cools A, M  W  F ,0940 - 1030am,WATSON 119,30,0,30,JEC SSRQ,"PRQ,H"
+60185,ECO 234-0,Latin American Economic Dev,Crandall B,  T  R  ,0110 - 0225pm,TOM CONF,30,0,30,CULT SSRQ,"PRQ,F"
+60186,ECO 325-0,Public Sector Economics,O'Keefe S, M  W  F ,0110 - 0200pm,CHAM 1111,30,0,30,SSRQ,"PRQ,H"
+60187,ECO 329-0,Sports Economics,Smith F,  T  R  ,1135 - 1250pm,WATSON 119,30,0,30,NONE,"PRQ,H"
+60188,ECO 385-0,Forecasting,Jha J, M  W   ,0730 - 0845pm, ,26,0,26,MQRQ,"PRQ,O"
+60189,ECO 495-A,"""Great"" Books in Economics",Jha J, M  W   ,0220 - 0335pm, ,12,0,12,NONE,"PRQ,4+,O"
+60190,ECO 495-B,Behavioral Economics,Foley M, M  W   ,0220 - 0335pm, ,12,0,12,NONE,"PRQ,4+,O"
+60191,ECO 495-C,Migration,Gouri Suresh S, M  W   ,0220 - 0335pm, ,12,0,12,NONE,"PRQ,4+,O"
+60192,ECO 495-D,Milestones in Economic Thought,Kumar V, M  W   ,0220 - 0335pm, ,12,0,12,NONE,"PRQ,4+,O"
+60193,ECO 495-E,Topics in Public Policy,Cools A, M  W  F ,0220 - 0310pm,CHAM 2130,12,0,12,NONE,"PRQ,4+,H"
+60194,ECO 495-H,Honors Thesis,Stroup C, M  W  F ,0220 - 0310pm,CHAM 3198,12,0,12,NONE,"PRQ,4+,H"
+60195,EDU 121-0,Foundations of American Educ,Gay R, M  W  F ,0940 - 1030am, ,30,0,30,HTRQ,O
+60196,EDU 280-0,Intro to Education Policy,Murray B,  T  R  ,0245 - 0400pm, ,30,0,30,JEC SSRQ,O
+60197,EDU 290-0,Oral History,Kelly H, M     ,0110 - 0400pm, ,10,0,10,HTRQ,"XLST,O"
+60198,EDU 292-0,Theory of Sports Coaching ,Gay R, M  W  F ,1200 - 1250pm, ,30,0,30,NONE,O
+60199,EDU 300-0,The Politics of Education,Murray B, M  W  F ,1050 - 1140am, ,20,0,20,SSRQ,O
+60200,EDU 310-0,The Afterlife of School Seg,Kelly H,   W   ,0110 - 0400pm, ,20,0,20,JEC SSRQ,O
+60201,EDU 360-0,Second Language Acquisition,Fernandez R,  T  R  ,0110 - 0225pm, ,15,0,15,SSRQ,"PRQ,O"
+60204,ENG 110-A,Graphic Med:Drawing Disability,Fox A, M  W  F ,0940 - 1030am, ,30,0,30,LTRQ,O
+60205,ENG 110-B,Contemporary American Fiction,Parker A,  T  R  ,0950 - 1105am,ALVA 307,30,0,30,LTRQ,H
+60206,ENG 203-0,Introduction to Writing Poetry,Calfo-Kalfopoulou A,  T    ,0110 - 0400pm,WATSON 119,14,0,14,LTRQ,H
+60207,ENG 205-0,Screenwriting,Clement-Lam L, M     ,0110 - 0400pm, ,14,0,14,VPRQ,O
+60208,ENG 211-0,Filmmaking,Clement-Lam L,   W   ,0110 - 0400pm, ,14,0,14,VPRQ,O
+60209,ENG 220-A,Literary Analysis,Fackler M, M  W  F ,1050 - 1140am, ,20,0,20,LTRQ,O
+60210,ENG 220-B,Literary Analysis,Ingram R, M  W   ,0220 - 0335pm,WATSON 157,20,0,20,LTRQ,H
+60211,ENG 242-0,REG FOR THE 242 CRN 60545,Green S, M  W  F ,0110 - 0200pm,CUNN 115,0,0,0,JEC VPRQ,"XLST,H"
+60212,ENG 260-0,British Literature Since 1800,Vaz O, M  W  F ,0110 - 0200pm, ,30,0,30,LTRQ,O
+60213,ENG 272-0,Intro Asian American Lit,Hong H,  T  R  ,0110 - 0225pm,WALL 243,30,0,30,LTRQ,H
+60214,ENG 289-0,Native American Env Lit,Merrill A, M  W   ,0805 - 0920am,TOM CONF,30,0,30,LTRQ,H
+60215,ENG 294-0,Harlem Renaissance,Churchill S,  T  R  ,0950 - 1105am,CHAM 1046,30,0,30,CULT LTRQ,H
+60215,ENG 294-0,Harlem Renaissance,Churchill S,  T  R  ,0950 - 1105am,CHAM 1027,30,0,30,CULT LTRQ,H
+60216,ENG 296-0,Science Fiction and Technology,Sample M,  T  R  ,0950 - 1105am, ,20,0,20,JEC LTRQ,O
+60217,ENG 297-0,Caribbean Literature,Flanagan B, M  W   ,0220 - 0335pm,SLOAN 201,15,0,15,CULT LTRQ,"XLST,H"
+60218,ENG 301-0,Creative Nonfiction,Calfo-Kalfopoulou A,    R  ,0110 - 0400pm,CHAM 1015,14,0,14,LTRQ,H
+60219,ENG 307-I,Forms of Fiction,Parker A,  T    ,0110 - 0400pm,CHAM 1062,20,0,20,LTRQ,"INN,H"
+60220,ENG 309-I,Forms of Poetry,Rippeon A,   W   ,0110 - 0400pm, ,20,0,20,LTRQ,"INN,O"
+60221,ENG 333-I,Literary Satans,Ingram R, M  W  F ,1050 - 1140am,CHAM 3106,30,0,30,LTRQ,"INN,H"
+60222,ENG 353-0,Shakespeare & Contemporaries,Lewis C,  T  R  ,1135 - 1250pm,CHAM 3198,10,0,10,LTRQ,H
+60223,ENG 384-I,When Whites Write Black,Flanagan B, M  W  F ,0940 - 1030am,CHAM 1062,16,0,16,CULT LTRQ,"INN,H"
+60224,ENG 388-0,Contemporary Theatre,Fox A, M  W  F ,1200 - 1250pm, ,30,0,30,JEC LTRQ,O
+60225,ENG 390-0,Word-Art:Seeing in Black&White,Churchill S,  T  R  ,0110 - 0225pm,WATSON 157,20,0,20,CULT LTRQ,"NA,H"
+60226,ENG 394-0,"Nationalism, Race, & Empire",Vaz O, M  W  F ,1200 - 1250pm, ,30,0,30,JEC LTRQ,O
+60227,ENG 404-0,Writing the Sexy Novella,Flanagan B,    R  ,0140 - 0420pm,CHAM 2130,12,0,12,NONE,"34,H"
+60228,ENG 409-A,TV: Queer Representations,Fackler M, M     ,0110 - 0400pm, ,6,0,6,JEC,"XLST,O"
+60580,ENG 409-B,TV: Queer Representations,Fackler M,   W   ,0110 - 0400pm, ,6,0,6,JEC,"XLST,O"
+60229,ENG 462-0,Long 18th Century Gothic,Vaz O,  T    ,0110 - 0400pm, ,12,0,12,NONE,O
+60230,ENG 499-0,Senior Honors Thesis,Lewis C,  T  R  ,0700 - 0815pm,CHAM 2068,11,0,11,NONE,"4,PRM,H"
+60231,ENV 201-A,Environmental Science,Bratt A,  T    ,0110 - 0400pm,WALL 116,16,0,16,NSRQ,"123+,H,FL"
+60231,ENV 201-A,Environmental Science,Bratt A,  T  R  ,0950 - 1105am,WALL 243,16,0,16,NSRQ,"123+,H,FL"
+60232,ENV 201-B,Environmental Science,Bratt A,   W   ,0110 - 0400pm,WALL 116,16,0,16,NSRQ,"123+,H,FL"
+60232,ENV 201-B,Environmental Science,Bratt A,  T  R  ,0950 - 1105am,WALL 243,16,0,16,NSRQ,"123+,H,FL"
+60233,ENV 202-0,Environmental Social Sciences,Worl J,  T  R  ,0815 - 0930am,WATSON 157,30,0,30,SSRQ,H
+60233,ENV 202-0,Environmental Social Sciences,Worl J,  T  R  ,0815 - 0930am,WATSON 147,30,0,30,SSRQ,H
+60234,ENV 203-0,Environmental Humanities,Merrill A, M  W  F ,1050 - 1140am,WATSON 157,30,0,30,NONE,"123+,H"
+60234,ENV 203-0,Environmental Humanities,Merrill A, M  W  F ,1050 - 1140am,WATSON 147,30,0,30,NONE,"123+,H"
+60235,ENV 256-0,Environmental History,Garcia Peacock J, M  W   ,0220 - 0335pm,WALL 243,30,0,30,HTRQ,H
+60236,ENV 273-0,"Art, Activism & Environment",Garcia Peacock J,  T  R  ,0110 - 0225pm,WALL 320,20,0,20,JEC,H
+60237,ENV 275-0,Urban Ecology,Bratt A,  T  R  ,0700 - 0815pm,WALL 251,15,0,15,NONE,H
+60238,ENV 330-0,Surface Geology & Landforms,Johnson B,  T  R  ,1135 - 1250pm,WALL 251,15,0,15,NONE,F
+60239,ENV 345-0,Politics of Waste,Worl J,  T  R  ,0835 - 0950pm,WATSON 157,20,0,20,JEC SSRQ,H
+60239,ENV 345-0,Politics of Waste,Worl J,  T  R  ,0835 - 0950pm,WATSON 147,20,0,20,JEC SSRQ,H
+60240,ENV 385-0,Environmental Justice Art,Garcia Peacock J, M  W  F ,1200 - 1250pm,WALL 307,6,0,6,NONE,F
+60241,ENV 401-A,Environmental Studies Seminar,Merrill A,  T  R  ,0245 - 0400pm,WALL 320,15,0,15,NONE,"PRQ,4,H"
+60242,ENV 401-B,Environmental Studies Seminar,Merrill A,  T  R  ,0245 - 0400pm,WALL 320,5,0,5,NONE,"PRQ,3,H"
+60243,FMS 220-0,Intro to Film & Media Studies,McCarthy M, M  W  F ,1200 - 1250pm,CHAM 1003,30,0,30,VPRQ,H
+60244,FRE 101-0,Elementary French I,Hope S, M  W  F ,1050 - 1105am, ,18,0,18,NONE,"AT-II,O"
+60245,FRE 102-A,Elementary French II,Postoli S, M  W  F ,1050 - 1140am,CHAM 1006,18,0,18,NONE,"AT-II,H"
+60246,FRE 102-B,Elementary French II,Postoli S, M  W  F ,1200 - 1250pm,CHAM 1006,18,0,18,NONE,"AT-II,H"
+60247,FRE 201-A,Intermed Fre/Davidson Exposure,Mohammed S, M  W  F ,0940 - 1030am, ,18,0,18,FRLG,"AT,O"
+60248,FRE 201-B,Intermed Fre/Davidson Exposure,Mohammed S, M  W  F ,1050 - 1140am, ,18,0,18,FRLG,"AT,O"
+60249,FRE 212-0,Oral Expression,Beschea F,  T  R  ,1135 - 1250pm,CHAM LRC,16,0,16,FRLG,"AT,PRQ,H"
+60249,FRE 212-0,Oral Expression,Beschea F,  T  R  ,1135 - 1250pm,CHAM 3106,16,0,16,FRLG,"AT,PRQ,H"
+60576,FRE 220-0,Portraits of Women in Lit,Hope S, M  W  F ,1200 - 1250pm, ,18,0,18,LITE LTRQ,"PRQ, O"
+60251,FRE 260-0,Contemporary France,Kruger C,  T  R  ,0950 - 1105am,CHAM 1003,18,0,18,FRLG,"PRQ,F"
+60253,FRE 313-0,Advanced Grammar Review,Mohammed S, M  W  F ,1200 - 1250pm, ,16,0,16,NONE,"PRQ,O"
+60254,FRE 315-0,History of the French Language,Beschea F,  T  R  ,0110 - 0225pm,CHAM 3106,18,0,18,FRLG,"PRQ,H"
+60255,FRE 362-0,Gender & Sexuality in Maghreb,Postoli S, M  W   ,0220 - 0335pm,CHAM 1006,18,0,18,CULT FRLG LTRQ,F
+60257,FRE 491-0,Senior Capstone,Kruger C,  T  R  ,1135 - 1250pm,CHAM 2068,10,0,10,NONE,"4,F"
+60258,GER 102-A,Elementary German II,McCarthy M, M  W  F ,1050 - 1140am,CHAM 1003,15,0,15,NONE,"AT-II,H"
+60259,GER 102-B,Elementary German II,Frazier-Rath E, M  W  F ,0940 - 1030am,CHAM 1006,15,0,15,NONE,"AT-II,H"
+60260,GER 250-0,Intro to Literary Studies,Henke B,  T  R  ,1135 - 1250pm, ,15,0,15,FRLG LTRQ,"PRQ,O"
+60261,GER 331-0,Post-War Ger Novel (in transl),Henke B,  T  R  ,0245 - 0400pm, ,20,0,20,LTRQ,O
+60262,GER 351-0,Remembering Violence,Frazier-Rath E,  T  R  ,1135 - 1250pm,CHAM 1006,15,0,15,LTRQ,"PRQ,H"
+60264,GRE 103-0,Intens Elem Greek (2 credits),Cheshire K,  T  R  ,0950 - 1105am,EU 101,12,0,12,NONE,"AT-II,F"
+60264,GRE 103-0,Intens Elem Greek (2 credits),Cheshire K, M  W  F ,0940 - 1030am,EU 101,12,0,12,NONE,"AT-II,F"
+60265,GRE 244-0,Greek Historians: Herodotus,Toumazou M,  T  R  ,0245 - 0400pm,CHAM 3084,5,0,5,FRLG LTRQ,"XLST,PRQ,F"
+60266,GRE 344-0,Adv Greek Historians:Herodotus,Toumazou M,  T  R  ,0245 - 0400pm,CHAM 3084,5,0,5,FRLG LTRQ,"XLST,PRQ,F"
+60267,GSS 101-0,Intro to Gender & Sexuality,Mahoney A,  T  R  ,0950 - 1105am, ,30,0,30,JEC,O
+60268,GSS 201-0,Feminist & Queer Theories,Tilburg P,  T  R  ,0110 - 0225pm, ,20,0,20,JEC,O
+60269,GSS 341-0,Asian Amer Lit & Film,Tamura Y,  T  R  ,0245 - 0400pm, ,30,0,30,JEC LTRQ,O
+60579,GSS 401-0,TV: Queer Representations,Fackler M, M     ,0110 - 0400pm, ,6,0,6,JEC,
+60270,GSS 401-A,TV: Queer Representations,Fackler M,   W   ,0110 - 0400pm, ,6,0,6,JEC,"XLST,O"
+60271,GSS 402-0,Seminar: Black Sexual Politics,Mahoney A,    R  ,0110 - 0400pm, ,12,0,12,JEC SSRQ,O
+60272,GSS 435-0,"Brown, Black, and Blue",Horowitz K,   W   ,0110 - 0400pm, ,12,0,12,JEC,O
+60273,HHV 110-0,Introduction to Public Health,Bullock S,  T  R  ,0950 - 1105am, ,30,0,30,NONE,O
+60274,HHV 234-0,"Genes, Environment, & Health",Mamoon N, M  W   ,0220 - 0335pm,WATSON 119,16,0,16,JEC,H
+60275,HHV 280-0,Introduction to Global Health,Chillag K, M  W   ,0805 - 0920am, ,32,0,32,JEC,O
+60276,HHV 292-0,Intro to Epidemiology,Bullock S, M  W   ,0220 - 0335pm, ,30,0,30,SSRQ,O
+60277,HHV 370-0,"Nutrition, Bodies, and Health",Stutts L,  T  R  ,0950 - 1105am, ,12,0,12,JEC,"234,O"
+60278,HHV 373-0,Food and Nutrition Policy,Bullock S,    R  ,0110 - 0400pm, ,12,0,12,NONE,"34,O"
+60279,HHV 395-A,Current Issues Public Health,Wessner D, M     ,0110 - 0400pm,CHAM 2234,10,0,10,NONE,"234,H"
+60280,HHV 395-B,Public Health Ethics,Chillag K, M  W   ,0220 - 0335pm, ,12,0,12,NONE,"234,O"
+60281,HIS 141-0,19th Century US History,Stremlau R, M  W  F ,0220 - 0310pm,CHAM 1111,30,0,30,HTRQ,"123,H"
+60282,HIS 142-0,The United States since 1900,Wertheimer J, M  W  F ,1050 - 1140am, ,30,0,30,HTRQ,"123,O"
+60283,HIS 163-0,Place & Nation in Modrn Lat Am,Mangan J,  T  R  ,0815 - 0930am,CHAM 1003,30,0,30,CULT HTRQ,"123,H"
+60284,HIS 171-0,Taj Mahal to Terrorism,Waheed S,  T  R  ,0245 - 0400pm,DANA 146,30,0,30,CULT HTRQ,"123,H"
+60285,HIS 175-0,"Mid East,610-1453:Formtn Islam",Berkey J, M  W  F ,0940 - 1030am,TOM CONF,30,0,30,CULT HTRQ,"123,H"
+60286,HIS 184-0,East Asian Hist 1850 - Present,Mortensen D,  T  R  ,0110 - 0225pm, ,30,0,30,CULT HTRQ,"123,O"
+60287,HIS 228-0,"Modern Bodies: Gend, Sex, Race",Tilburg P, M  W   ,0220 - 0335pm, ,15,0,15,HTRQ JEC,O
+60577,HIS 234-0,The Holocaust,McQuinn I, M  W   ,0730 - 0845pm, ,15,0,15,HTRQ JEC,O
+60288,HIS 242-0,Origins American South,Guasco M, M  W   ,0220 - 0335pm,CHAM HANCE,15,0,15,HTRQ,"123,H"
+60289,HIS 252-0,The U.S. in World War II,Wertheimer J,  T  R  ,0110 - 0225pm, ,20,0,20,HTRQ,"123,O"
+60290,HIS 255-0,American Popular Culture,Aldridge D,  T  R  ,0245 - 0400pm, ,15,0,15,HTRQ,"123,O"
+60291,HIS 267-0,Health & Society in Africa,Wiemers A, M  W   ,0220 - 0335pm, ,15,0,15,HTRQ JEC,"123,O"
+60292,HIS 272-0,Massacres/Migrations: India,Waheed S,  T  R  ,1135 - 1250pm,CHAM 3196,15,0,15,HTRQ JEC,"123,H"
+60293,HIS 315-0,Central Europe in Middle Ages,Kabala J,  T  R  ,1135 - 1250pm, ,30,0,30,HTRQ,O
+60294,HIS 325-0,Britain from 1688 to 1832,Dietz V,  T  R  ,1135 - 1250pm,CHAM 1027,30,0,30,HTRQ,H
+60295,HIS 332-0,"European Metropolis, 1870-1914",Tilburg P, M  W  F ,1200 - 1250pm, ,30,0,30,HTRQ,O
+60296,HIS 335-0,Postwar,McQuinn I, M  W  F ,0940 - 1030am, ,30,0,30,HTRQ,O
+60297,HIS 341-0,Era of the American Revolution,Guasco M,  T  R  ,0950 - 1105am,CHAM HANCE,30,0,30,HTRQ,H
+60298,HIS 349-0,The Vietnam Experience,Aldridge D,  T  R  ,0815 - 0930am, ,30,0,30,HTRQ,O
+60299,HIS 352-0,Native America since 1840,Stremlau R, M  W  F ,1050 - 1140am,TOM CONF,30,0,30,CULT HTRQ,H
+60300,HIS 384-0,Shanghai,Mortensen D,  T  R  ,0950 - 1105am, ,30,0,30,CULT HTRQ,O
+60301,HIS 414-0,Mapping Medieval Europe,Kabala J,   W   ,0110 - 0400pm, ,12,0,12,NONE,"34,O"
+60302,HIS 422-0,Gender in Early Modern Europe,Dietz V, M     ,0110 - 0400pm,CHAM 2068,12,0,12,NONE,"34,H"
+60303,HIS 444-0,History of Sexuality,Stremlau R, M  W   ,0730 - 0845pm,CHAM 3196,12,0,12,NONE,"34,H"
+60304,HIS 449-0,Age of Revolution: US in 1960s,Aldridge D,   W   ,0110 - 0400pm, ,12,0,12,NONE,"34,O"
+60305,HIS 454-0,Filming Southern History,Wertheimer J,   W   ,0110 - 0400pm, ,12,0,12,JEC,"34,O"
+60306,HIS 489-0,Kelley Honors Seminar,Berkey J,   W   ,0110 - 0400pm,CHAM 2146,10,0,10,NONE,"4,H"
+60307,HUM 104-0,Connections and Conflicts II,Denham S,  T  R  ,0950 - 1105am, ,84,0,84,COMP,"R,O"
+60308,HUM 104-A,REG FOR HUM 104-0 CRN 60307,Fache C,  T  R  ,0950 - 1105am, ,0,0,0,COMP,"R,O"
+60309,HUM 104-B,REG FOR HUM 104-0 CRN 60307,Tamura Y,  T  R  ,0950 - 1105am, ,0,0,0,COMP,"R,O"
+60310,HUM 104-C,REG FOR HUM 104-0 CRN 60307,Wills A,  T  R  ,0950 - 1105am, ,0,0,0,COMP,"R,O"
+60311,HUM 104-D,REG FOR HUM 104-0 CRN 60307,Bory A,  T  R  ,0950 - 1105am, ,0,0,0,COMP,"R,O"
+60312,HUM 104-E,REG FOR HUM 104-0 CRN 60307,Denham S,  T  R  ,0950 - 1105am, ,0,0,0,COMP,"R,O"
+60313,HUM 104-F,REG FOR HUM 104-0 CRN 60307,Luis D,  T  R  ,0950 - 1105am, ,0,0,0,COMP,"R,O"
+60314,HUM 196-0,Adv Humanities II,Denham S,  T  R  ,0950 - 1105am, ,10,0,10,NONE,"PRM,O"
+60315,LAS 101-0,Intro Latin American Studies,Sturtevant C,  T  R  ,0950 - 1105am,CHAM 3106,30,0,30,CULT,H
+60316,LAS 220-0,Politics & Economics of Brazil,Crandall B,  T  R  ,1135 - 1250pm,TOM CONF,13,0,13,CULT SSRQ,"XLST,F"
+60317,LAS 241-0,Lat Amer Social Movements,Sturtevant C, M  W   ,0220 - 0335pm,TOM CONF,18,0,18,CULT SSRQ,F
+60318,LAS 300-0,Afrocubana Feminisms,Benson D,   W   ,0110 - 0400pm, ,8,0,8,JEC,"XLST,O"
+60319,LAS 350-0,Latinx Experiences in NC,Sturtevant C,  T  R  ,0110 - 0225pm,CHAM 3068,12,0,12,CULT SSRQ,F
+60322,LAT 102-0,Elementary Latin II,Truetzel A, M  W  F ,1200 - 1250pm,CHAM 1062,20,0,20,NONE,"AT-II,H"
+60323,LAT 251-0,Roman Novel: The Golden Ass,Cheshire K, M  W  F ,1050 - 1140am,EU 101,10,0,10,FRLG LTRQ,"PRQ,XLST,F"
+60324,LAT 351-0,Adv Roman Novel:The Golden Ass,Cheshire K, M  W  F ,1050 - 1140am,EU 101,10,0,10,FRLG LTRQ,"PRQ,XLST,F"
+60325,LIT 432-0,Theory & Prac Lit Translation,Race M,     F ,1200 - 0310pm, ,12,0,12,NONE,"R,O"
+60326,MAT 105-0,Introduction to Statistics,Staff S,  T  R  ,0815 - 0930am, ,24,0,24,JEC MQRQ,O
+60327,MAT 108-0,Exploring Mathematical Ideas,Troyka J,  T  R  ,0950 - 1105am, ,30,0,30,MQRQ,O
+60328,MAT 112-A,Calculus I and Modeling,Zhuang Y, M  W  F ,0110 - 0200pm, ,26,0,26,MQRQ,O
+60329,MAT 112-B,Calculus I and Modeling,Zhuang Y, M  W  F ,0220 - 0310pm, ,26,0,26,MQRQ,O
+60330,MAT 113-A,Calculus II,Molinek D, M  W  F ,0830 - 0920am, ,26,0,26,MQRQ,"PRQ,O"
+60331,MAT 113-B,Calculus II,Molinek D, M  W  F ,0940 - 1030am, ,26,0,26,MQRQ,"PRQ,O"
+60332,MAT 140-0,Multivar Calculus & Modeling,Wiedemann A, M  W  F ,0110 - 0200pm, ,26,0,26,MQRQ,"PRQ,O"
+60333,MAT 150-A,Linear Algebra,Smith H,  T  R  ,0110 - 0225pm, ,24,0,24,MQRQ,"PRQ,O"
+60334,MAT 150-B,Linear Algebra,Smith H,  T  R  ,0245 - 0400pm, ,24,0,24,MQRQ,"PRQ,O"
+60335,MAT 160-0,Calculus III,Troyka J,  T  R  ,1135 - 1250pm, ,26,0,26,MQRQ,"PRQ,O"
+60336,MAT 210-0,Mathematical Modeling,Chartier T,      ,TBA , ,24,0,24,MQRQ,"XLST,PRQ,O"
+60337,MAT 220-0,REG FOR CSC 220 CRN 60143,Wiedenbeck B,  T  R  ,0815 - 0930am, ,0,0,0,MQRQ,"XLST,PRQ,O"
+60338,MAT 230-0,Sets and Proofs,Tamagawa S,  T  R  ,0950 - 1105am, ,20,0,20,MQRQ,"PRQ,O"
+60339,MAT 255-0,Number Theory,Zhuang Y, M  W  F ,0940 - 1030am, ,20,0,20,MQRQ,"PRQ,O"
+60340,MAT 315-0,Numerical Analysis,Chartier T,      ,TBA , ,24,0,24,NONE,"XLST,PRQ,O"
+60341,MAT 331-0,Complex Analysis,Wiedemann A, M  W  F ,1050 - 1140am, ,30,0,30,NONE,"PRQ,O"
+60342,MAT 341-0,Mathematical Statistics,Yerger C,  T  R  ,0815 - 0930am, ,30,0,30,NONE,"PRQ,O"
+60343,MAT 380-0,History of Mathematics,Tamagawa S,  T  R  ,0110 - 0225pm, ,30,0,30,NONE,"PRQ,O"
+60344,MAT 437-0,Dynamical Systems,Molinek D,      ,TBA , ,30,0,30,NONE,"PRQ,O"
+60345,MIL 102-0,Foundations of Leadership,Hoffman H,      ,TBA , ,10,0,10,NONE,"12,M"
+60346,MIL 202-0,Army Doctrine-Decision Making,Hoffman H,      ,TBA , ,10,0,10,NONE,"12,M"
+60347,MIL 302-0,Applied Ldrshp-Small Unit Ops,Hoffman H,      ,TBA , ,10,0,10,NONE,"3,R,XP"
+60348,MIL 402-0,Company Grade Leadership,Hoffman H,      ,TBA , ,10,0,10,NONE,"4,R,XP"
+60349,MUS 102-0,Contemporary Music Theory,Stasack J, M  W  F ,0940 - 1030am,SLOAN 201,20,0,20,VPRQ,H
+60350,MUS 121-0,Music in Western Civilization,Botelho M, M  W  F ,0830 - 0920am,SLOAN 201,26,0,26,VPRQ,F
+60351,MUS 141-0,World Musics,Stasack J, M  W  F ,1200 - 1250pm,SLOAN 201,26,0,26,CULT VPRQ,H
+60352,MUS 228-0,Film Music,Lerner N,  T  R  ,1135 - 1250pm, ,20,0,20,VPRQ,O
+60353,MUS 233-0,Musical Theatre,Lawing B,  T  R  ,0110 - 0225pm,SLOAN 201,26,0,26,VPRQ,F
+60354,MUS 241-0,Music of Latin America,Botelho M,  T  R  ,0815 - 0930am,SLOAN 201,21,0,21,CULT VPRQ,"XLST,F"
+60355,MUS 301-0,Advanced Harmony,Botelho M, M  W  F ,1050 - 1140am,SLOAN 201,20,0,20,VPRQ,"PRQ,F"
+60356,MUS 312-0,Conducting,Keith T, M  W   ,0220 - 0335pm,SLOAN 200,6,0,6,NONE,"PRM,H"
+60357,MUS 341-0,Adv Music of Latin America,Botelho M,  T  R  ,0815 - 0930am,SLOAN 201,5,0,5,CULT VPRQ,"XLST,F"
+60358,MUS 361-0,Adv Studies in Composition,Stasack J,  T  R  ,0950 - 1105am,SLOAN 100,6,0,6,NONE,"PRM,H"
+60359,PHI 102-0,Reason and Argument,Busch K, M  W  F ,0830 - 0920am,CHAM 1111,30,0,30,PRRQ,H
+60360,PHI 106-0,Early Mod European Philosophy,Busch K, M  W  F ,1200 - 1250pm,WATSON 109,24,0,24,PRRQ,H
+60361,PHI 110-0,Problems of Philosophy,Jankovic M, M  W  F ,1050 - 1140am, ,30,0,30,PRRQ,O
+60362,PHI 122-0,Philosophy of Human Nature,Jankovic M, M  W  F ,0220 - 0310pm, ,30,0,30,PRRQ,O
+60363,PHI 211-0,Theory of Knowledge,Jankovic M, M  W  F ,0330 - 0420pm, ,30,0,30,PRRQ,O
+60364,PHI 215-0,Ethics,Layman D,  T  R  ,1135 - 1250pm, ,30,0,30,JEC PRRQ,O
+60365,PHI 217-0,Philosophy of Mind,Robb D,  T  R  ,0700 - 0815pm, ,30,0,30,PRRQ,O
+60366,PHI 219-0,Freedom and Responsibility,Griffith M, M  W  F ,0110 - 0200pm, ,30,0,30,PRRQ,O
+60367,PHI 250-0,Buddhism as Philosophy,Robb D, M  W  F ,0940 - 1030am, ,30,0,30,CULT PRRQ,O
+60368,PHI 325-0,Philosophy of Law,McKeever S, M  W   ,0220 - 0335pm, ,30,0,30,SSRQ,O
+60369,PHI 350-0,The Evolution of Morality,Studtmann P,  T  R  ,0110 - 0225pm, ,16,0,16,NONE,O
+60370,PHI 365-0,Philosophy of Mathematics,Studtmann P,  T  R  ,0815 - 0930am, ,16,0,16,NONE,O
+60372,PHI 451-0,Senior Colloq in Philosophy,Griffith M,    R  ,0110 - 0400pm, ,16,0,16,NONE,"PRM,O"
+60373,PHI 495-0,Senior Thesis,Staff S,      ,TBA , ,16,0,16,NONE,PRM
+60374,PHY 106-A,Astronomy,Thompson K,   W   ,0110 - 0400pm,DANA 127,8,0,8,NSRQ,"12+,O,HL"
+60374,PHY 106-A,Astronomy,Thompson K, M  W  F ,0830 - 0920am, ,8,0,8,NSRQ,"12+,O,HL"
+60375,PHY 106-B,Astronomy,Thompson K,    R  ,0110 - 0400pm,DANA 127,8,0,8,NSRQ,"12+,O,HL"
+60375,PHY 106-B,Astronomy,Thompson K, M  W  F ,0830 - 0920am, ,8,0,8,NSRQ,"12+,O,HL"
+60376,PHY 106-C,Astronomy,Thompson K,   W   ,0110 - 0400pm,DANA 127,8,0,8,NSRQ,"O,HL"
+60376,PHY 106-C,Astronomy,Thompson K, M  W  F ,0830 - 0920am, ,8,0,8,NSRQ,"O,HL"
+60377,PHY 106-D,Astronomy,Thompson K,    R  ,0110 - 0400pm,DANA 127,8,0,8,NSRQ,"O,HL"
+60377,PHY 106-D,Astronomy,Thompson K, M  W  F ,0830 - 0920am, ,8,0,8,NSRQ,"O,HL"
+60378,PHY 130-A,General Phys I w/Calculus,Boye D, M     ,0110 - 0400pm,DANA 111,16,0,16,NSRQ,"O,FL"
+60378,PHY 130-A,General Phys I w/Calculus,Boye D, M  W  F ,1050 - 1140am, ,16,0,16,NSRQ,"O,FL"
+60379,PHY 130-B,General Phys I w/Calculus,Boye D,  T    ,0110 - 0400pm,DANA 111,16,0,16,NSRQ,"O,FL"
+60379,PHY 130-B,General Phys I w/Calculus,Boye D, M  W  F ,1050 - 1140am, ,16,0,16,NSRQ,"O,FL"
+60380,PHY 200-0,Computational Physics,Kuchera M,      ,TBA , ,20,0,20,MQRQ,"XLST,O"
+60381,PHY 201-0,Math Methods for Scientists,Boye D,  T  R  ,0950 - 1105am, ,20,0,20,MQRQ,"PRQ,O"
+60382,PHY 225-0,Studio Physics II + lab,Bastani S, M  W  F ,0110 - 0310pm,DANA 220,24,0,24,NSRQ,"PRQ,H,FL"
+60383,PHY 235-0,Studio Physics II w/Calc + lab,Kuchera A, M  W  F ,1050 - 1250pm,DANA 220,24,0,24,NSRQ,"PRQ,H,FL"
+60384,PHY 335-0,Advanced Laboratory + lab,Gfroerer T,  T  R  ,0110 - 0400pm,DANA B054,13,0,13,NONE,"PRQ,4+,LL,O,FL"
+60384,PHY 335-0,Advanced Laboratory + lab,Gfroerer T, M  W  F ,1200 - 1250pm, ,13,0,13,NONE,"PRQ,4+,LL,O,FL"
+60385,PHY 350-0,Electricity & Magnetism,Yukich J, M  W  F ,1050 - 1140am,DANA 146,15,0,15,NONE,"PRQ,H"
+60386,PHY 425-0,Nuclear Physics,Kuchera A,  T  R  ,0950 - 1105am,WATSON 109,20,0,20,NSRQ,"PRQ,H"
+60387,POL 121-0,American Politics,Yesnowitz J, M  W  F ,0940 - 1030am,CHAM 1111,30,0,30,SSRQ,"123+,H"
+60388,POL 140-A,Comparative Global Politics,Penar P,  T  R  ,1135 - 1250pm, ,30,0,30,SSRQ,"123+,O"
+60389,POL 140-B,Comparative Global Politics,Penar P,  T  R  ,0245 - 0400pm,WATSON 157,30,0,30,SSRQ,"123+,H"
+60390,POL 161-0,Intro to Int'l Relations,Toska S,  T  R  ,0815 - 0930am, ,30,0,30,SSRQ,"123,O"
+60391,POL 182-A,Intro to Research Methods,Ceka B, M  W  F ,0940 - 1030am,LIB B110,30,0,30,MQRQ,"234,AT,H"
+60392,POL 182-B,Intro to Research Methods,Ceka B, M  W  F ,1050 - 1140am,LIB B110,30,0,30,MQRQ,"234,AT,H"
+60393,POL 203-0,Medieval Political Theory,Shaw B,  T  R  ,0110 - 0225pm,CHAM 2106,20,0,20,SSRQ,F
+60394,POL 224-0,Political Institutions,O'Geen A,  T  R  ,0815 - 0930am, ,30,0,30,SSRQ,O
+60395,POL 239-0,Social Movements & Change US,Yesnowitz J, M  W   ,0220 - 0335pm,WALL 210,30,0,30,SSRQ,H
+60396,POL 241-0,Comparative Public Policy,Bersch K,  T  R  ,0110 - 0225pm,CHAM 2084,30,0,30,SSRQ,H
+60397,POL 281-0,Who Owns the Past?,Zimmerman J,  T  R  ,0110 - 0225pm, ,30,0,30,PRRQ,O
+60398,POL 291-0,Politics of the Middle East,Toska S,  T  R  ,1135 - 1250pm, ,30,0,30,CULT SSRQ,O
+60399,POL 293-0,Politics of the Americas,Crandall R,  T    ,0110 - 0400pm,CHAM 2068,12,0,12,CULT SSRQ,F
+60400,POL 304-0,Foundations of Liberalism,Shaw B,  T  R  ,0950 - 1105am,TOM CONF,30,0,30,JEC SSRQ,F
+60401,POL 327-0,Civil Liberties,O'Geen A, M  W   ,0805 - 0920am, ,30,0,30,LTRQ,O
+60582,POL 334-0,Public Opinion,Crowder-Meyer M,  T  R  ,0110 - 0225pm, ,30,0,30,SSRQ,O
+60583,POL 336-0,Politics & The Media,Crowder-Meyer M, M  W   ,0220 - 0335pm, ,30,0,30,SSRQ,O
+60402,POL 342-0,China Pol Econ Society,Rigger S,  T  R  ,0245 - 0400pm,TOM CONF,30,0,30,CULT,F
+60403,POL 344-0,Politics & Economics of Brazil,Crandall B,  T  R  ,1135 - 1250pm,TOM CONF,15,0,15,CULT SSRQ,"XLST,F"
+60404,POL 365-0,Intl Relations of Asia Pacific,Rigger S,  T  R  ,0950 - 1105am,CHAM 1111,30,0,30,SSRQ,F
+60405,POL 430-0,The Politics of Youth,Yesnowitz J,  T    ,0110 - 0400pm,CHAM 3234,12,0,12,NONE,"PRM,H"
+60406,POL 444-0,Nationalism,Ceka B,  T    ,0110 - 0400pm, ,12,0,12,NONE,"PRM,O"
+60407,POL 445-0,Corruption and Development,Bersch K, M     ,0110 - 0400pm,CHAM 3234,12,0,12,NONE,"PRM,H"
+60408,POL 463-0,International Organizations,Penar P,   W   ,0110 - 0400pm,CHAM 2068,12,0,12,SSRQ,"PRM,H"
+60409,PSY 101-A,General Psychology,Good J, M  W  F ,0220 - 0310pm, ,40,0,40,SSRQ,O
+60410,PSY 101-B,General Psychology,Boyd M,  T  R  ,0950 - 1105am, ,40,0,40,SSRQ,O
+60411,PSY 101-C,General Psychology,Boyd M,  T  R  ,0110 - 0225pm, ,40,0,40,SSRQ,O
+60412,PSY 101-D,General Psychology,Kello J,  T  R  ,0245 - 0400pm, ,40,0,40,SSRQ,O
+60414,PSY 220-0,Health Psychology,Stutts L,  T  R  ,0815 - 0930am, ,32,0,32,SSRQ,O
+60415,PSY 231-0,Abnormal Psychology,Sockol L, M  W  F ,1050 - 1140am, ,32,0,32,SSRQ,"PRQ,O"
+60416,PSY 232-0,Social Psychology,Good J, M  W  F ,0110 - 0200pm, ,32,0,32,SSRQ,"PRQ,O"
+60417,PSY 260-0,Organization Development,Kello J,  T  R  ,1135 - 1250pm, ,32,0,32,SSRQ,"PRQ,O"
+60418,PSY 282-0,Learning,Ramirez J, M  W   ,0220 - 0335pm,WATSON 109,32,0,32,SSRQ,"PRQ,H"
+60419,PSY 284-0,Drugs and Behavior,Sharp J, M  W  F ,0940 - 1030am, ,32,0,32,SSRQ,"PRQ,O"
+60421,PSY 292-0,Collective Memory,Multhaup K,  T  R  ,1135 - 1250pm,CHAM 1111,14,0,14,SSRQ,H
+60421,PSY 292-0,Collective Memory,Multhaup K,  T  R  ,1135 - 1250pm,CHAM 2130,14,0,14,SSRQ,H
+60422,PSY 301-A,Psy Res:Perception & Attention,Munger G,   W   ,1050 - 1250pm,WALL B05,3,0,3,NONE,"PRQ,4,O,HL"
+60422,PSY 301-A,Psy Res:Perception & Attention,Munger G, M  W  F ,0940 - 1030am, ,3,0,3,NONE,"PRQ,4,O,HL"
+60423,PSY 301-B,Psy Res:Perception & Attention,Munger G,   W   ,0110 - 0310pm,WALL B05,3,0,3,NONE,"PRQ,4,O,HL"
+60423,PSY 301-B,Psy Res:Perception & Attention,Munger G, M  W  F ,0940 - 1030am, ,3,0,3,NONE,"PRQ,4,O,HL"
+60424,PSY 301-C,Psy Res:Perception & Attention,Munger G,   W   ,1050 - 1250pm,WALL B05,5,0,5,NONE,"PRQ,23,O,HL"
+60424,PSY 301-C,Psy Res:Perception & Attention,Munger G, M  W  F ,0940 - 1030am, ,5,0,5,NONE,"PRQ,23,O,HL"
+60425,PSY 301-D,Psy Res:Perception & Attention,Munger G,   W   ,0110 - 0310pm,WALL B05,5,0,5,NONE,"PRQ,23,O,HL"
+60425,PSY 301-D,Psy Res:Perception & Attention,Munger G, M  W  F ,0940 - 1030am, ,5,0,5,NONE,"PRQ,23,O,HL"
+60426,PSY 302-A,Psy Res:Behavior Pharmacology,Smith M,  T  R  ,0815 - 0930am, ,3,0,3,NONE,"PRQ,4,O,OL"
+60426,PSY 302-A,Psy Res:Behavior Pharmacology,Smith M, M  W  F ,0830 - 0920am, ,3,0,3,NONE,"PRQ,4,O,OL"
+60427,PSY 302-B,Psy Res:Behavior Pharmacology,Smith M,  T  R  ,0950 - 1105am, ,3,0,3,NONE,"PRQ,4,O,OL"
+60427,PSY 302-B,Psy Res:Behavior Pharmacology,Smith M, M  W  F ,0830 - 0920am, ,3,0,3,NONE,"PRQ,4,O,OL"
+60428,PSY 302-C,Psy Res:Behavior Pharmacology,Smith M,  T  R  ,0815 - 0930am, ,5,0,5,NONE,"PRQ,23,O,OL"
+60428,PSY 302-C,Psy Res:Behavior Pharmacology,Smith M, M  W  F ,0830 - 0920am, ,5,0,5,NONE,"PRQ,23,O,OL"
+60429,PSY 302-D,Psy Res:Behavior Pharmacology,Smith M,  T  R  ,0950 - 1105am, ,5,0,5,NONE,"PRQ,23,O,OL"
+60429,PSY 302-D,Psy Res:Behavior Pharmacology,Smith M, M  W  F ,0830 - 0920am, ,5,0,5,NONE,"PRQ,23,O,OL"
+60430,PSY 310-0,PsyResearch:Design & Analysis1,Eiler B,   W   ,0220 - 0420pm,WALL 380,24,0,24,NONE,"PRQ,O,HL"
+60430,PSY 310-0,PsyResearch:Design & Analysis1,Eiler B,  T  R  ,0110 - 0225pm, ,24,0,24,NONE,"PRQ,O,HL"
+60431,PSY 313-A,PsyRes: Quant/Experimental,Eiler B,  T    ,0815 - 1055am,WALL B05,6,0,6,NONE,"PRQ,4,H,HL"
+60431,PSY 313-A,PsyRes: Quant/Experimental,Eiler B, M  W   ,0805 - 0920am,WALL B45,6,0,6,NONE,"PRQ,4,H,HL"
+60432,PSY 313-B,PsyRes: Quant/Experimental,Eiler B,  T    ,0815 - 1055am,WALL B05,12,0,12,NONE,"PRQ,23,H,HL"
+60432,PSY 313-B,PsyRes: Quant/Experimental,Eiler B, M  W   ,0805 - 0920am,WALL B45,12,0,12,NONE,"PRQ,23,H,HL"
+60433,PSY 315-A,Research: Child Development,Flaherty M,   W   ,1050 - 1250pm, ,3,0,3,NONE,"PRQ,4,O,OL"
+60433,PSY 315-A,Research: Child Development,Flaherty M,  T  R  ,0245 - 0400pm, ,3,0,3,NONE,"PRQ,4,O,OL"
+60434,PSY 315-B,Research: Child Development,Flaherty M,   W   ,1050 - 1250pm, ,5,0,5,NONE,"PRQ,23,O,OL"
+60434,PSY 315-B,Research: Child Development,Flaherty M,  T  R  ,0245 - 0400pm, ,5,0,5,NONE,"PRQ,23,O,OL"
+60435,PSY 315-C,Research: Child Development,Flaherty M,   W   ,0110 - 0310pm, ,3,0,3,NONE,"PRQ,4,O,OL"
+60435,PSY 315-C,Research: Child Development,Flaherty M,  T  R  ,0245 - 0400pm, ,3,0,3,NONE,"PRQ,4,O,OL"
+60436,PSY 315-D,Research: Child Development,Flaherty M,   W   ,0110 - 0310pm, ,5,0,5,NONE,"PRQ,23,O,OL"
+60436,PSY 315-D,Research: Child Development,Flaherty M,  T  R  ,0245 - 0400pm, ,5,0,5,NONE,"PRQ,23,O,OL"
+60437,PSY 317-A,Methods in Cultural Psychology,Salter P,     F ,0940 - 1140am,WALL 380,3,0,3,NONE,"PRQ,4,O,HL"
+60437,PSY 317-A,Methods in Cultural Psychology,Salter P, M  W   ,0220 - 0335pm, ,3,0,3,NONE,"PRQ,4,O,HL"
+60438,PSY 317-B,Methods in Cultural Psychology,Salter P,     F ,0940 - 1140am,WALL 380,6,0,6,NONE,"PRQ,23,O,HL"
+60438,PSY 317-B,Methods in Cultural Psychology,Salter P, M  W   ,0220 - 0335pm, ,6,0,6,NONE,"PRQ,23,O,HL"
+60439,PSY 317-C,Methods in Cultural Psychology,Salter P,     F ,1200 - 0200pm,WALL 380,3,0,3,NONE,"PRQ,4,O,HL"
+60439,PSY 317-C,Methods in Cultural Psychology,Salter P, M  W   ,0220 - 0335pm, ,3,0,3,NONE,"PRQ,4,O,HL"
+60440,PSY 317-D,Methods in Cultural Psychology,Salter P,     F ,1200 - 0200pm,WALL 380,6,0,6,NONE,"PRQ,23,O,HL"
+60440,PSY 317-D,Methods in Cultural Psychology,Salter P, M  W   ,0220 - 0335pm, ,6,0,6,NONE,"PRQ,23,O,HL"
+60441,PSY 324-0,Functional Neuroanatomy,Ramirez J,  T    ,0110 - 0400pm,WALL 106,12,0,12,NONE,"XLST,PRQ,H"
+60446,PSY 351-0,Adv Sem:Gender&Psychopathology,Sockol L, M  W   ,0220 - 0335pm, ,12,0,12,NONE,"PRM,O"
+60447,PSY 352-0,Adv Sem:Counseling Psychology,White M,  T  R  ,0950 - 1105am, ,12,0,12,NONE,"PRQ,O"
+60448,PSY 365-0,Adv Sem:Clinical Neuropsych,Icard P, M     ,0110 - 0400pm, ,12,0,12,NONE,"PRQ,O"
+60449,PSY 400-0,Senior Thesis,Staff S,      ,TBA , ,15,0,15,NONE,PRM
+60450,PSY 401-A,Issues in Psychology,Boyd M, M  W   ,0220 - 0335pm, ,10,0,10,NONE,"PRQ,4,O"
+60451,PSY 401-B,Issues in Psychology,Multhaup K,  T  R  ,0950 - 1105am, ,10,0,10,NONE,"PRQ,4,O"
+60452,PSY 402-0,History & Systems in Psy,Munger G,  T  R  ,1135 - 1250pm,CHAM 2146,10,0,10,NONE,"PRQ,4,H"
+60453,REL 108-0,Kingdom of God & Good Society,Ottati D, M  W  F ,0110 - 0200pm, ,14,0,14,JEC PRRQ,"12,O"
+60454,REL 130-0,Intro to the New Testament,Snyder G, M  W  F ,0940 - 1030am, ,30,0,30,PRRQ,O
+60455,REL 137-0,The Bible & the Quran,Snyder G, M  W   ,0220 - 0335pm, ,30,0,30,CULT PRRQ,O
+60456,REL 141-0,The Rise of Christianity,Foley T, M  W  F ,0830 - 0920am, ,30,0,30,PRRQ,O
+60457,REL 143-0,Being Human,Ottati D, M  W  F ,0830 - 0920am, ,30,0,30,PRRQ,O
+60458,REL 150-0,Intro to Christian Ethics,Ottati D, M  W  F ,1050 - 1140am, ,30,0,30,PRRQ,O
+60459,REL 162-0,Contemporary Seekers in US,Wills A,  T  R  ,1135 - 1250pm,CHAM 1003,30,0,30,PRRQ,H
+60460,REL 232-0,Parables Jewish&Christian Trad,Plank K, M  W  F ,0110 - 0200pm, ,30,0,30,PRRQ,O
+60461,REL 233-0,The Other Gospels,Snyder G, M  W  F ,1200 - 1250pm, ,30,0,30,PRRQ,O
+60462,REL 271-0,Classical Buddhism,Mahony B, M  W   ,0220 - 0335pm, ,30,0,30,CULT PRRQ,O
+60463,REL 273-0,Catholicism & Shiism,Lustig A, M  W   ,0730 - 0845pm, ,30,0,30,CULT PRRQ,O
+60464,REL 280-0,Chinese Religions,Pang R,  T  R  ,0245 - 0400pm,CHAM 1003,30,0,30,CULT PRRQ,H
+60465,REL 301-0,Thinking about Religion,Pang R,  T  R  ,0110 - 0225pm,CHAM 1003,30,0,30,PRRQ,H
+60466,REL 321-0,The Exodus Tradition,Plank K,  T  R  ,0950 - 1105am, ,30,0,30,PRRQ,O
+60467,REL 371-0,Hindu Mysticism,Mahony B,  T  R  ,0815 - 0930am, ,30,0,30,CULT PRRQ,O
+60468,REL 452-0,Contemplation & Action,Lustig A,    R  ,0110 - 0400pm, ,12,0,12,PRRQ,O
+60469,RUS 102-0,Elementary Russian II,Kogel I, M  W  F ,1050 - 1140am, ,20,0,20,NONE,"AT-II,PRQ,O"
+60470,RUS 202-0,Intermediate Russian II,Kogel I, M  W  F ,1200 - 1250pm, ,20,0,20,FRLG,"AT-II,PRQ,O"
+60471,RUS 270-0,20th C Russian Lit (in transl),Race M,  T  R  ,0110 - 0225pm, ,30,0,30,CULT LTRQ,O
+60578,RUS 301-0,Advanced Russian,Kogel I,  T  R  ,1135 - 1250pm,CHAM 1015,10,0,10,FRLG,"PRQ,H"
+60472,RUS 420-0,Anna Karenina (in transl),Race M, M  W   ,0220 - 0335pm, ,20,0,20,CULT LTRQ,O
+60473,SIL 115-0,Beginning Italian,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60474,SIL 116-0,Continuing Italian,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60475,SIL 117-0,Intermediate Italian,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60476,SIL 120-0,Beginning American Sign Lang,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60477,SIL 125-0,Beginning Korean,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60478,SIL 126-0,Continuing Korean,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60479,SIL 131-0,Beginning Modern Greek,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60480,SIL 132-0,Continuing Modern Greek,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60481,SIL 138-0,Beginning Swedish,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60482,SIL 139-0,Continuing Swedish,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60483,SIL 140-0,Intermediate Swedish,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60484,SIL 141-0,Beginning Portuguese,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60485,SIL 142-0,Continuing Portuguese,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60486,SIL 143-0,Intermediate Portuguese,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60487,SIL 150-0,Beginning Danish,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60488,SIL 151-0,Continuing Danish,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60489,SIL 171-0,Beginning Hindi,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60490,SIL 172-0,Continuing Hindi,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60491,SIL 185-0,Beginning Japanese,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60492,SIL 186-0,Continuing Japanese,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60493,SIL 187-0,Intermediate Japanese,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60494,SIL 191-0,Beginning Hebrew,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60495,SIL 192-0,Continuing Hebrew,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60496,SIL 193-0,Intermediate Hebrew,Beschea F,      ,TBA , ,5,0,5,NONE,"234,PRM,H"
+60497,SOC 101-0,Introductory Sociology,Marti G,  T  R  ,0950 - 1105am, ,30,0,30,SSRQ,O
+60498,SOC 201-0,Social Statistics,Kaufman G,  T  R  ,0815 - 0930am,WATSON 132,20,0,20,MQRQ,H
+60499,SOC 206-0,Asians in US & Asia,Kim J, M  W  F ,0940 - 1030am,CHAM 1027,30,0,30,JEC SSRQ,H
+60500,SOC 211-0,Demagogues & Dictators,Kim J, M  W  F ,1200 - 1250pm,CHAM 1027,30,0,30,SSRQ,H
+60501,SOC 242-0,Globalization & Social Change,Bhandari A, M  W  F ,1050 - 1140am, ,30,0,30,CULT SSRQ,O
+60502,SOC 270-0,Immigration & Deportation,Marti G,  T  R  ,1135 - 1250pm, ,30,0,30,JEC SSRQ,O
+60503,SOC 290-0,Oral History,Kelly H, M     ,0110 - 0400pm, ,5,0,5,HTRQ,"XLST,O"
+60504,SOC 310-0,"Gender, Race & Sports",Kaufman G,  T  R  ,0950 - 1105am, ,25,0,25,JEC SSRQ,O
+60505,SOC 331-0,Community Engagement & Change,Riemer S, M     ,0110 - 0400pm, ,20,0,20,JEC SSRQ,O
+60506,SOC 374-0,Contemporary Race Theory,Ewoodzie J,  T    ,0110 - 0400pm,CHAM 2146,20,0,20,SSRQ,"XLST,H"
+60507,SOC 392-0,Quantitative Data Analysis,Bhandari A, M  W  F ,0830 - 0920am, ,20,0,20,MQRQ,"PRQ,O"
+60508,SOC 393-0,Comparative-Historical Methods,Kim J,   W   ,0110 - 0400pm,CHAM 1027,20,0,20,SSRQ,H
+60509,SOC 450-0,Identity & Community,Marti G,    R  ,0110 - 0400pm, ,15,0,15,NONE,O
+60510,SPA 101-0,Elementary Spanish I,Offerman H, M  W  F ,0940 - 1030am, ,20,0,20,NONE,"AT-II,O"
+60511,SPA 102-A,Elementary Spanish II,Scott R, M  W  F ,0830 - 0920am, ,20,0,20,NONE,"AT-II,O"
+60512,SPA 102-B,Elementary Spanish II,Scott R, M  W  F ,0940 - 1030am, ,20,0,20,NONE,"AT-II,O"
+60513,SPA 102-C,Elementary Spanish II,Offerman H, M  W  F ,1050 - 1140am, ,20,0,20,NONE,"AT-II,O"
+60514,SPA 102-D,Elementary Spanish II,Scott R, M  W  F ,1200 - 1250pm, ,20,0,20,NONE,"AT-II,O"
+60515,SPA 201-A,Intermediate Spanish,Santamaria L, M  W  F ,0830 - 0920am, ,18,0,18,FRLG,"AT,O"
+60516,SPA 201-B,Intermediate Spanish,Santamaria L, M  W  F ,0940 - 1030am, ,20,0,20,FRLG,"AT,O"
+60517,SPA 201-C,Intermediate Spanish,Jimenez A, M  W  F ,1050 - 1140am, ,20,0,20,FRLG,"AT,O"
+60518,SPA 201-D,Intermediate Spanish,Santamaria L, M  W  F ,1200 - 1250pm, ,20,0,20,FRLG,"AT,O"
+60519,SPA 201-E,Intermediate Spanish,Pasero-O'Malley A, M  W  F ,0110 - 0200pm,WATSON 109,20,0,20,FRLG,"AT,F"
+60520,SPA 260-A,Spanish Conversation & Comp,Maiz-Pena M,  T  R  ,0950 - 1105am,CHAM 1062,16,0,16,FRLG,"AT,PRQ,F"
+60521,SPA 260-B,Spanish Conversation & Comp,Lang Hilgartner J,  T  R  ,1135 - 1250pm, ,16,0,16,FRLG,"AT,PRQ,O"
+60522,SPA 260-C,Spanish Conversation & Comp,Willis A,  T  R  ,0110 - 0225pm, ,16,0,16,FRLG,"AT,PRQ,O"
+60523,SPA 271-A,Hispanic Humanities I,Willis A,  T  R  ,0950 - 1105am, ,20,0,20,CULT FRLG LTRQ,O
+60524,SPA 271-B,Hispanic Humanities I,Willis A,  T  R  ,1135 - 1250pm, ,20,0,20,CULT FRLG LTRQ,O
+60525,SPA 272-A,Hispanic Humanities II,Kietrys K,  T  R  ,1135 - 1250pm,CHAM 3084,20,0,20,CULT FRLG LTRQ,H
+60526,SPA 272-B,Hispanic Humanities II,Kietrys K,  T  R  ,0110 - 0225pm,CHAM 3084,20,0,20,CULT FRLG LTRQ,H
+60527,SPA 302-0,Advanced Grammar,Gonzalez M, M  W   ,0220 - 0335pm, ,20,0,20,FRLG,O
+60528,SPA 306-0,Hispanic Bilingual Communities,Jimenez A, M  W  F ,0110 - 0200pm, ,20,0,20,CULT FRLG LTRQ,O
+60529,SPA 315-0,Lost Children of Spain,Lang Hilgartner J,  T  R  ,0815 - 0930am, ,20,0,20,CULT FRLG LTRQ,O
+60530,SPA 324-0,Emotionl Comm Medievel Iberia ,Sanchez-Sanchez S,  T  R  ,0950 - 1105am, ,20,0,20,CULT FRLG LTRQ,O
+60531,SPA 336-0,U.S. Hispanic Theatre ,Pasero-O'Malley A, M  W  F ,1050 - 1140am,WATSON 140,20,0,20,CULT FRLG LTRQ,F
+60532,SPA 341-0,Latin American Literature II,Pena L,  T  R  ,0245 - 0400pm,CHAM 1027,15,0,15,FRLG LTRQ,F
+60533,SPA 344-0,"Latinx Cult:Race,Gendr,&Sexlty",Gonzalez M, M  W   ,0805 - 0920am, ,20,0,20,FRLG JEC LTRQ,"NA,PRQ,O"
+60534,SPA 352-0,Contemp Latin American Cinema,Pena L,  T  R  ,0110 - 0225pm,CHAM 1027,15,0,15,FRLG VPRQ,F
+60535,SPA 406-0,"Life-Writing, Gend & Represent",Maiz-Pena M,  T  R  ,1135 - 1250pm,CHAM 1062,12,0,12,FRLG,F
+60542,THE 110-0,Thinking Creatively,Henderson K, M  W  F ,1050 - 1140am, ,30,0,30,VPRQ,O
+60543,THE 200-0,Production Technology,Davis C,  T  R  ,1135 - 1250pm,CUNN 132,8,0,8,VPRQ,H
+60544,THE 230-0,Fashion Statement,Tripathi A, M  W  F ,0220 - 0310pm, ,12,0,12,VPRQ,O
+60545,THE 242-0,Womn's Work:Female Playwrights,Green S, M  W  F ,0110 - 0200pm,CUNN 115,20,0,20,JEC VPRQ,"XLST,H"
+60546,THE 245-A,Acting I,Sutch M,  T  R  ,0110 - 0310pm,CUNN 115,12,0,12,VPRQ,H
+60547,THE 245-B,Acting I,Kaliski S,  T  R  ,0900 - 1055am,CUNN 115,12,0,12,VPRQ,H
+60548,THE 245-C,Acting I,Costa A, M  W   ,0220 - 0420pm,CUNN 100,12,0,12,VPRQ,"12+,H"
+60549,THE 325-0,Production Dramaturgy,Green S,  T  R  ,0700 - 0815pm,CUNN 109,10,0,10,VPRQ,H
+60550,THE 371-0,World Theatre History,Green S,  T  R  ,0950 - 1105am,CUNN 109,10,0,10,VPRQ,H
+60551,THE 381-0,Advanced Acting Seminar,Costa A,  T  R  ,0200 - 0400pm,CUNN 100,10,0,10,NONE,"PRQ,H"
+60552,THE 410-0,Collaboration in Theatre,Sutch M, M  W   ,0940 - 1140am,WATSON 132,8,0,8,VPRQ,"XP,PRQ,F"
+60552,THE 410-0,Collaboration in Theatre,Sutch M, M  W   ,0940 - 1140am,CUNN 100,8,0,8,VPRQ,"XP,PRQ,F"
+60553,WRI 101-A,"Fake News, Real Science",Campbell M,  T  R  ,0245 - 0400pm, ,9,0,9,COMP,"W,1,O"
+60554,WRI 101-B,Hair Habits and Styles,Cho H, M  W  F ,1050 - 1140am, ,9,0,9,COMP,"W,1,O"
+60555,WRI 101-C,Astrobiology Life in Universe,Thompson K,  T  R  ,0815 - 0930am, ,9,0,9,COMP,"W,1,O"
+60556,WRI 101-D,Writing China,Rigger S, M  W  F ,0110 - 0200pm,CHAM 2130,9,0,9,COMP,"W,1,H"
+60557,WRI 101-E,Denial & the Holocaust,McQuinn I, M  W  F ,0220 - 0310pm, ,9,0,9,COMP,"W,1,O"
+60558,WRI 101-F,Imagining Africa ,Wiemers A, M  W  F ,1050 - 1140am, ,9,0,9,COMP,"W,1,O"
+60559,WRI 101-G,Here I Stand,Krentz P, M  W  F ,1200 - 1250pm, ,9,0,9,COMP,"W,1,O"
+60560,WRI 101-H,Vicious Ignorance,Busch K, M  W  F ,0220 - 0310pm, ,9,0,9,COMP,"W,1,O"
+60561,WRI 101-I,Freedom of Speech,McKeever S, M  W  F ,1050 - 1140am, ,9,0,9,COMP,"W,1,O"
+60562,WRI 101-J,Does Democracy Matter?,Layman D,  T  R  ,0110 - 0225pm, ,9,0,9,COMP,"W,1,O"
+60563,WRI 101-K,Discourses of the Dispossessed,Hillard V,  T  R  ,0950 - 1105am, ,9,0,9,COMP,"W,1,O"
+60564,WRI 101-L,Discourses of the Dispossessed,Hillard V,  T  R  ,1135 - 1250pm, ,9,0,9,COMP,"W,1,O"
+60565,WRI 101-M,Bad Art,Rippeon A, M  W  F ,0940 - 1030am, ,9,0,9,COMP,"W,1,O"
+60566,WRI 101-N,Religion and Violence,Blum J, M  W  F ,0110 - 0200pm, ,9,0,9,COMP,"W,1,O"
+60567,WRI 101-O,Leadership in the Era of #BLM,Mahoney A,  T  R  ,1135 - 1250pm, ,9,0,9,COMP,"W,1,O"
+60568,WRI 101-P,Ain't What It Used to Be,Kaliski S,  T  R  ,0110 - 0225pm, ,9,0,9,COMP,"W,1,O"
+60569,WRI 210-0,Rhetorics of Gender&Sexuality,Horowitz K,  T  R  ,0950 - 1105am, ,16,0,16,JEC LTRQ,O
+60570,WRI 250-0,Smart Writing in Public Sphere,Blum J, M  W  F ,0940 - 1030am, ,16,0,16,LTRQ,O
+60571,XPL 199-A,Entre- and Intra-preneurship,Heyer L,     F ,0110 - 0400pm, ,16,0,16,NONE,"PRM,O"
+60572,XPL 199-B,Community Engagement ,Riemer S,     F ,0110 - 0400pm, ,16,0,16,NONE,"PRM,O"
+60573,XPL 199-C,Global Citizenship,Zimmerman J,  T    ,0700 - 0950pm, ,16,0,16,NONE,"PRM,O"
